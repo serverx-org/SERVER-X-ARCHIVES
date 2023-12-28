@@ -4,8 +4,8 @@ This repository contains the format and structure for contributors to learn how 
 
 |      |             |
 | ---- | ----------- |
-| —>   | for folders |
-| ---> | for files   |
+| `———>`   | for folders |
+| `--->` | for files   |
 |      |             |
 
 Coding Problem Solution files:
