@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"d:\\Compitative-Programming\\hackerearth-vignan\\data-structures-internal\\test.py","tests":[{"id":1702917182870,"input":"1 2 3 4 5 6 7 \n1 3 2 5 7 6 4","output":"2 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Compitative-Programming\\hackerearth-vignan\\data-structures-internal\\test.py","group":"local","local":true}

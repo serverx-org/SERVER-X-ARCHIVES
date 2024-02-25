@@ -1,0 +1,1 @@
+{"name":"Local: revVolels","url":"d:\\Compitative-Programming\\hackerearth-vignan\\revVolels.cpp","tests":[{"id":1685128248359,"input":"2\n5\naxyze\n7\naefioju","output":"exyza\nujoijea"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Compitative-Programming\\hackerearth-vignan\\revVolels.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: cnt-num","url":"d:\\Compitative-Programming\\hackerearth-vignan\\challenge-9\\cnt-num.cpp","tests":[{"id":1686468267672,"input":"2\n5 4\n1 2 4 4 5\n9 3\n1 2 3 4 5 3 3 3 3","output":"2\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Compitative-Programming\\hackerearth-vignan\\challenge-9\\cnt-num.cpp","group":"local","local":true}

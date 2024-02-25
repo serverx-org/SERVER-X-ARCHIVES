@@ -1,0 +1,1 @@
+{"name":"Local: palindromic","url":"d:\\Compitative-Programming\\hackerearth-vignan\\challenge_b_3\\palindromic.cpp","tests":[{"id":1685554704349,"input":"1\n4\n1 2 1 2","output":"palindromic"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Compitative-Programming\\hackerearth-vignan\\challenge_b_3\\palindromic.cpp","group":"local","local":true}

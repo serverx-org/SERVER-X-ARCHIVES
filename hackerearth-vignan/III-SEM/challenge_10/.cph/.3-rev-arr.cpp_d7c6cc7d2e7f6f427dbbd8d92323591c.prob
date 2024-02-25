@@ -1,0 +1,1 @@
+{"name":"Local: 3-rev-arr","url":"d:\\Compitative-Programming\\hackerearth-vignan\\challenge-10\\3-rev-arr.cpp","tests":[{"id":1687059643295,"input":"1\n5\n1 2 3 4 5","output":"5 4 3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Compitative-Programming\\hackerearth-vignan\\challenge-10\\3-rev-arr.cpp","group":"local","local":true}

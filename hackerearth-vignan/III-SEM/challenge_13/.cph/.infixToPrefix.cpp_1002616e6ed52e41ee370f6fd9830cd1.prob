@@ -1,0 +1,1 @@
+{"name":"Local: infixToPrefix","url":"d:\\Compitative-Programming\\hackerearth-vignan\\challange_13\\infixToPrefix.cpp","tests":[{"id":1697281279831,"input":"A*B+C/D","output":"+*AB/CD"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Compitative-Programming\\hackerearth-vignan\\challange_13\\infixToPrefix.cpp","group":"local","local":true}

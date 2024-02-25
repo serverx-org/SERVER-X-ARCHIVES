@@ -1,0 +1,1 @@
+{"name":"Local: 8-vote","url":"d:\\Compitative-Programming\\hackerearth-vignan\\challenge-9\\8-vote.cpp","tests":[{"id":1686474854993,"input":"3\n18\n35\n17","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Compitative-Programming\\hackerearth-vignan\\challenge-9\\8-vote.cpp","group":"local","local":true}
