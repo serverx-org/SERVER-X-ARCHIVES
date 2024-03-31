@@ -1,5 +1,3 @@
-Introduction to DataScience
-
 ---
 title: Data and Datascience
 description: Introduction to dataScience
