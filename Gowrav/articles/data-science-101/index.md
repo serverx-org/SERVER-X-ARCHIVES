@@ -124,10 +124,13 @@ Resources For Python and R :
 Python :
 
 https://www.afterhoursprogramming.com/tutorial/python/introduction-python/
+
 https://www.youtube.com/watch?v=VchuKL44s6E&t=501s
 
 R:
+
 https://www.mygreatlearning.com/academy/learn-for-free/courses/r-for-data-science
+
 https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html
 
 Summary:
