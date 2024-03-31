@@ -5,10 +5,10 @@ author: Gowrav Sai Veeramallu
 lastmod:2024-03-31
 github: https://github.com/SERVER-X-101/SERVER-X-ARCHIVES/edit/main/Gowrav/articles/data-science-101/index.md
 tags:
-  - Data: The Raw Material of Insights
+  - Data The Raw Material of Insights
   - Transforming Data into Knowledge!!
-  - Beyond Numbers: The Ethical Considerations
-  - Data Demystified: A call to Action
+  - Beyond Numbers The Ethical Considerations
+  - Data Demystified A call to Action
   - Introduction To Data science
   - Roles of a datascience engineer in real world industry
   - Skills to Master DataScience
