@@ -87,8 +87,11 @@ Communication and storytelling
 Real life situations where DataScience is used :
 ----------------------------------
 1.Personalized Medicine: Predicting and Preventing Disease
+
 2.Combating Climate Change: Mitigating Environmental Impact
+
 3.Revolutionizing Transportation: Smarter and Safer Travel
+
 4.Financial Fraud Detection: Protecting Your Money
 
 Programming languages to learn :
