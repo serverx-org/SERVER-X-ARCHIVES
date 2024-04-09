@@ -1,4 +1,3 @@
-Python for datascience
 ---
 title: Python for data science
 description: Fundamentals of Python for data science
