@@ -1,23 +1,3 @@
-
----
-title: Python for data science
-description: Fundamentals of Python for data science
-author: Gowrav Sai Veeramallu
-lastmod: 2024-04-09
-github: https://github.com/SERVER-X-101/SERVER-X-ARCHIVES/blob/main/Gowrav/articles/Python_for_DataScience/index.md
-tags:
-  - Python "Print" function
-  - Comments in Python
-  - Literal Constants
-  - Numbers
-  - Strings
-  - The format method
-  - Variable naming
-  - Input of a variable
-  - Operators and Expressions
-  - Evaluation Order
----
-
 This article helps you learn the fundamental and basic concepts of python required for data science.
 
 Python "Print" function:
