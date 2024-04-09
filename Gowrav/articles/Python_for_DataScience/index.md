@@ -211,7 +211,7 @@ Bitwise XOR of the numbers: if both bits (1 or 0) are the same, the result is 0.
 
 The bit-wise inversion of x is -(x+1)
 
-~5 gives -6. More details at http://stackoverflow.com/a/11810203
+~5 gives -6. 
 
 --> < (less than)
 
@@ -312,3 +312,11 @@ in, not in, is, is not, <, <=, >, >=, !=, == : Comparisons, including membership
 ** : Exponentiation
 
 In the next article we will learn about control flow statement,functions and modules.
+
+For resources on how to understand and work with python :
+
+https://www.youtube.com/watch?v=VchuKL44s6E&t=501s
+
+https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/
+
+https://www.w3resource.com/python-exercises/
