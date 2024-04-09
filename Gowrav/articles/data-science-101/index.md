@@ -1,16 +1,14 @@
-Introduction to DataScience
-
 ---
 title: Data and Datascience
 description: Introduction to dataScience
 author: Gowrav Sai Veeramallu
 lastmod:2024-03-31
-github: link (if any GitHub link is available; otherwise, do not add)
+github: https://github.com/SERVER-X-101/SERVER-X-ARCHIVES/edit/main/Gowrav/articles/data-science-101/index.md
 tags:
-  - Data: The Raw Material of Insights
+  - Data The Raw Material of Insights
   - Transforming Data into Knowledge!!
-  - Beyond Numbers: The Ethical Considerations
-  - Data Demystified: A call to Action
+  - Beyond Numbers The Ethical Considerations
+  - Data Demystified A call to Action
   - Introduction To Data science
   - Roles of a datascience engineer in real world industry
   - Skills to Master DataScience
@@ -89,8 +87,11 @@ Communication and storytelling
 Real life situations where DataScience is used :
 ----------------------------------
 1.Personalized Medicine: Predicting and Preventing Disease
+
 2.Combating Climate Change: Mitigating Environmental Impact
+
 3.Revolutionizing Transportation: Smarter and Safer Travel
+
 4.Financial Fraud Detection: Protecting Your Money
 
 Programming languages to learn :
@@ -126,10 +127,13 @@ Resources For Python and R :
 Python :
 
 https://www.afterhoursprogramming.com/tutorial/python/introduction-python/
+
 https://www.youtube.com/watch?v=VchuKL44s6E&t=501s
 
 R:
+
 https://www.mygreatlearning.com/academy/learn-for-free/courses/r-for-data-science
+
 https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html
 
 Summary:
