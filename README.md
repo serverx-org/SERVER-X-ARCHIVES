@@ -4,4 +4,4 @@
 
 - [**Code Format**](./Codes_Format.md)
 
-- [**Vignan | hackerearth**](./hackerearth-vignan)
+- [**Vignan \| hackerearth**](./hackerearth-vignan)
