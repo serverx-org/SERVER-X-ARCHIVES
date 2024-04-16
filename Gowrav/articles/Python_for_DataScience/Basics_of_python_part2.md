@@ -1,15 +1,5 @@
 # Python : The other half 
 
----
-title: Basics of Python for data science
-description: Fundamentals of Python for data science
-author: Gowrav Sai Veeramallu
-lastmod:
-github:
-tags:
-  - 
----
-
 # Control Flow Statements
 ---
 
