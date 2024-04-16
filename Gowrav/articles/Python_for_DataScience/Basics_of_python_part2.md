@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Python : Conditional statements and iterational statements
+=======
+# Python : The other half 
+>>>>>>> 4a29a3e767603e8a2bdc74addb988622c4075e72
 
 # Control Flow Statements
 ---
