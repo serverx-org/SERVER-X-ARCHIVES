@@ -3,8 +3,6 @@
 This article helps you learn the fundamental and basic concepts of python required for data science.
 
 ## Python "Print" function:
----
-
 In Python,to print any function we use "print" keyword.
 for eg: print("hello world").
 The output will be hello world.
@@ -17,8 +15,6 @@ print(hello)
 output : tim
 
 ## Comments in Python:
----
-
 In,python we usally comment sentences by using "#" character.
 for eg:
 a=2+2
@@ -26,15 +22,13 @@ print(b)
 #output 4
 
 ## Literal Constants:
----
 An example of a literal constant is a number like 5, 1.23, or a string like 'This is a string' or "It's a string!".
 
 It is called a literal because it is literal - you use its value literally. The number 2 always represents itself and nothing else - it is a constant because its value cannot be changed. Hence, all these are referred to as literal constants.
 
 ## Numbers:
----
 In python there are mainly two types of numbers:
----
+
 
 integers and float.
 An example for integer is 1,2,100 etc.
@@ -44,7 +38,6 @@ The E notation indicates powers of 10. In this case, 52.3E-4 means 52.3 * 10^-4^
 NOTE : IN PYTHON THERE IS NO SEPARATE LONG TYPE , INTEGER CAN BE OF ANY SIZE.
 
 ## Strings:
----
 A string is a sequence of characters. 
 You can mention a string in single,double, or triple quotes.
 'hello' or "hello" or '''hello'''
@@ -53,12 +46,8 @@ Using triple quotes indicate multi line strings.
 Strings are immutable i.e once you have created a string, you cannot change it.
 
 ## The format method:
----
-
 When we want to construct a string in a specific format we use the "format" method.
-
 eg:
-
 age = 20
 
 name = 'Swaroop'
@@ -76,8 +65,6 @@ Swaroop was 20 years old when he wrote this book
 Why is Swaroop playing with that python?
 
 ## Variable naming:
----
-
 - There are some rules you have to follow for naming identifiers:
 
 - The first character of the identifier must be a letter of the alphabet (uppercase ASCII or lowercase ASCII or Unicode character) or an underscore (_).
@@ -89,7 +76,6 @@ Why is Swaroop playing with that python?
 - Examples of valid identifier names are i, name_2_3. Examples of invalid identifier names are 2things, this is spaced out, my-name and >a1b2_c3.
 
 ## Input of a variable:
----
 
 In c/c++, for taking a input we use printf("") or cin commands. But in python , we use input() keyword.
 
@@ -105,10 +91,8 @@ name = int(input("Enter the input number: "))
 output: Enter the input number:
 
 ## Operators and Expressions:
----
-
 ### Operators:
----
+
 Here is a quick overview of the available operators:
 
 #### + (plus)
@@ -258,7 +242,7 @@ If x is True, it returns True, else it returns evaluation of y
 x = True; y = False; x or y returns True. Short-circuit evaluation applies here as well.
 
 ## Evaluation Order:
----
+
 
 When you have a set of operations in a single statement,which operation will you choose first to do??
 for eg : 2+3*5+(5-3)/2
@@ -297,7 +281,7 @@ In the next article we will learn about control flow statement,functions and mod
 
 For resources on how to understand and work with python :
 
-https://www.youtube.com/watch?v=VchuKL44s6E&t=501s
+https://youtu.be/VchuKL44s6E
 
 https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/
 
