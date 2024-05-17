@@ -95,6 +95,7 @@ ___
 **Communities:**
 - [**Community Forum**](https://mail.python.org/mailman/listinfo/scikit-learn)
 - [**GitHub Issues**](https://github.com/scikit-learn/scikit-learn/issues)
+- [**Discord**](https://discord.gg/RpeUw37X)
 - [**Stack Overflow**](https://stackoverflow.com/questions/tagged/scikit-learn)
 - [**Mailing List**](https://mail.python.org/mailman/listinfo/scikit-learn)
 - [**Twitter**](https://twitter.com/scikit_learn)
