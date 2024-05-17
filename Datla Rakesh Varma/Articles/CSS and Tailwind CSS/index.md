@@ -38,7 +38,7 @@ In this article, we will explore the best practices for using both traditional C
 
 ### 5. Responsive Design
 - **Media Queries**: Use media queries to create responsive layouts. As highlighted by [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries), media queries are essential for ensuring that your design adapts to various screen sizes.
-- **Mobile-First Approach**: Designing for the smallest screen first ensures a solid base design. This approach is endorsed by [Google Developers](https://developers.google.com/web/fundamentals/design-and-ux/responsive).
+- **Mobile-First Approach**: Designing for the smallest screen first ensures a solid base design. This approach is given in Basics Of [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive).
 
 ### 6. Debugging and Testing
 - **Browser Developer Tools**: Utilize tools like Chrome DevTools for debugging CSS. Mozilla provides comprehensive guides on using these tools effectively.
