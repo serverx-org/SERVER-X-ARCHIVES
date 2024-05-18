@@ -255,10 +255,9 @@ A card component for displaying content in a structured format.
 
 import React from 'react';
 
-const Card = ({ title, image, description }) => {
+const Card = ({ title, description }) => {
   return (
     <div className="max-w-sm rounded overflow-hidden shadow-lg m-4">
-      <img className="w-full" src={image} alt={title} />
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2">{title}</div>
         <p className="text-gray-700 text-base">{description}</p>
@@ -268,4 +267,7 @@ const Card = ({ title, image, description }) => {
 };
 
 export default Card;
+
+Conclusion
+These examples illustrate how to use React and Tailwind CSS to create a variety of UI components. By combining the flexibility of Tailwind's utility classes with React's component-based architecture, you can build responsive and reusable UI elements efficiently.
 
