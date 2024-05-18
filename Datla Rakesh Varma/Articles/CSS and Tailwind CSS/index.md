@@ -1,5 +1,5 @@
 ---
-title: Mastering CSS and Tailwind CSS
+title: Best Practices CSS and Tailwind CSS
 description: Delve into best practices, research and essential insights for leveraging CSS and Tailwind CSS in modern web development.
 author: Datla Rakesh Varma
 lastmod: 2024-05-17
@@ -9,8 +9,6 @@ tags:
     - tailwind-css
 draft: false
 ---
-
-# From Basic To Brilliance for Modern Web Development 
 
 ## Introduction
 
@@ -255,10 +253,11 @@ In this article, we will explore the best practices for using both traditional C
         --font-family: 'Helvetica, Arial, sans-serif';
     }
 
+    /* Fallback values */
     body {
-        font-family: var(--font-family);
+        font-family: var(--font-family), sans-serif; /* Added a generic sans-serif as a fallback */
         color: var(--primary-color);
-    }
+    }    
     ```
     Tailwind CSS Example:
 
@@ -278,6 +277,8 @@ In this article, we will explore the best practices for using both traditional C
                 },
             },
         },
+        variants: {},
+        plugins: [],
     }
     ```
 
