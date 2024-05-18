@@ -478,15 +478,8 @@ In this article, we will explore the best practices for using both traditional C
     {{< file "html" "example.html" >}}
 
     ```html
-    <div class="max-w-sm mx-auto bg-white shadow-md rounded-lg overflow-hidden md:max-w-md lg:max-w-lg">
-    <img class="w-full h-48 object-cover md:h-64 lg:h-80" src="pathofimage" alt="Card image">
-    <div class="p-4">
-        <h2 class="text-lg font-bold text-gray-900 md:text-xl lg:text-2xl">Responsive Card</h2>
-        <p class="mt-2 text-gray-600 md:text-base lg:text-lg">This card adjusts its layout based on the screen size.</p>
-        <button class="mt-4 px-4 py-2 bg-blue-500 text-white text-sm font-semibold rounded hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-opacity-50 md:text-base lg:text-lg">
-        Button
-        </button>
-    </div>
+    <div class="bg-blue-500 md:bg-green-500 lg:bg-red-500 xl:bg-yellow-500">
+        This background color changes at different screen sizes.
     </div>
     ```
 
@@ -498,11 +491,26 @@ In this article, we will explore the best practices for using both traditional C
 
     ```jsx
     <!-- React Component -->
-    const Button = ({ isPrimary }) => (
-        <button className={`py-2 px-4 rounded ${isPrimary ? 'bg-blue-500 text-white' : 'bg-gray-300 text-black'}`}>
-        Button
-        </button>
-    );
+    import React from 'react';
+
+    function ExampleComponent({ screenSize }) {
+        let backgroundColorClass = 'bg-blue-500';
+
+        if (screenSize === 'md') {
+            backgroundColorClass = 'bg-green-500';
+        } else if (screenSize === 'lg') {
+            backgroundColorClass = 'bg-red-500';
+        } else if (screenSize === 'xl') {
+            backgroundColorClass = 'bg-yellow-500';
+        }
+
+        return (
+            <div className={backgroundColorClass}>
+                This background color changes at different screen sizes.
+            </div>
+        );
+    }
+    export default ExampleComponent;
     ```
 
 ### Performance Optimization
