@@ -436,28 +436,32 @@ In this article, we will explore the best practices for using both traditional C
  
     Example:
 
+    Original HTML with repeated utility classes:
+
     {{< file "html" "example.html" >}}
 
     ```html
-    <div class="card bg-white p-6 rounded-lg shadow-md">
-        <h2 class="text-xl font-bold">Card Title</h2>
-        <p class="text-gray-700">Card content...</p>
-    </div>
-
-    <!-- CSS to use with Tailwind -->
-    <style>
-    .card {
-        @apply bg-white p-6 rounded-lg shadow-md;
-    }
-    </style>
+    <button class="px-4 py-2 bg-blue-500 text-white rounded-md shadow-md hover:bg-blue-600">Button 1</button>
+    <button class="px-4 py-2 bg-blue-500 text-white rounded-md shadow-md hover:bg-blue-600">Button 2</button>
+    <button class="px-4 py-2 bg-blue-500 text-white rounded-md shadow-md hover:bg-blue-600">Button 3</button>
     ```
+    Extracting into a reusable component:
+
+    {{< file "html" "example.html" >}}
+
+    ```html
+    <button class="btn-blue">Button 1</button>
+    <button class="btn-blue">Button 2</button>
+    <button class="btn-blue">Button 3</button>
+    ```
+    Using @apply:
 
     {{< file "css" "example.css" >}}
 
     ```css
     /* Custom CSS with @apply */
-    .btn-primary {
-        @apply bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600;
+    .btn-blue {
+      @apply px-4 py-2 bg-blue-500 text-white rounded-md shadow-md hover:bg-blue-600;
     }
     ```
 
