@@ -1,9 +1,9 @@
 ---
-title: Best Practices CSS and Tailwind CSS
+title: Best Practices For CSS and Tailwind CSS
 description: Delve into best practices, research and essential insights for leveraging CSS and Tailwind CSS in modern web development.
 author: Datla Rakesh Varma
-lastmod: 2024-05-17
-publishdate: 2024-05-17
+lastmod: 2024-05-18
+publishdate: 2024-05-18
 tags:
     - css
     - tailwind-css
