@@ -102,17 +102,27 @@ In this article, we will explore the best practices for using both traditional C
     {{< file "scss" "example.scss" >}}
 
     ```scss
-    $primary-color: #3490dc;
+    /* Variables */
+    :root {
+        --primary-color: #3498db;
+        --secondary-color: #2ecc71;
+    }
 
+    /* Mixin */
     .button {
-        background-color: $primary-color;
-        color: white;
         padding: 10px 20px;
+        border: none;
         border-radius: 5px;
-
-    &:hover {
-        background-color: darken($primary-color, 10%);
-        }
+        color: #fff;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        background-color: var(--primary-color);
+    }
+    .button:hover {
+        background-color: #2980b9;
+    }
+    .button.secondary {
+        background-color: var(--secondary-color);
     }
     ```
     Tailwind CSS Example:
@@ -120,7 +130,10 @@ In this article, we will explore the best practices for using both traditional C
     {{< file "html" "example.html" >}}
 
     ```html
-    <button class="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">Button</button>
+    <div class="container mx-auto p-4">
+        <button class="button bg-blue-500 hover:bg-blue-700 text-white py-2 px-4 rounded-full transition duration-300">Primary Button</button>
+        <button class="button bg-green-500 hover:bg-green-700 text-white py-2 px-4 rounded-full transition duration-300">Secondary Button</button>
+    </div>
     ```
 
 ### Optimize Performance 
