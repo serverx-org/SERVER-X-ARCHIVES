@@ -1,0 +1,6 @@
+- articles
+  └── markdown-syntax-guide
+       ├── img
+       │    ├── featured.png
+       │    └── sample.png
+       └── index.md
