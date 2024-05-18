@@ -102,27 +102,32 @@ In this article, we will explore the best practices for using both traditional C
     {{< file "scss" "example.scss" >}}
 
     ```scss
-    /* Variables */
-    :root {
-        --primary-color: #3498db;
-        --secondary-color: #2ecc71;
-    }
+    // Variables
+    $primary-color: #3498db;
+    $secondary-color: #2ecc71;
 
-    /* Mixin */
-    .button {
+    // Mixin
+    @mixin button-styles {
         padding: 10px 20px;
         border: none;
         border-radius: 5px;
         color: #fff;
         cursor: pointer;
         transition: background-color 0.3s ease;
-        background-color: var(--primary-color);
+    
+        &:hover {
+            background-color: darken($primary-color, 10%);
+        }
     }
-    .button:hover {
-        background-color: #2980b9;
-    }
-    .button.secondary {
-        background-color: var(--secondary-color);
+
+    // Nested Rules
+    .button {
+        @include button-styles;
+        background-color: $primary-color;
+    
+        &.secondary {
+            background-color: $secondary-color;
+        }
     }
     ```
     Tailwind CSS Example:
