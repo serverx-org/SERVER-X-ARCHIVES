@@ -34,4 +34,4 @@ Optimize VS Code's performance by disabling unnecessary features and extensions.
 
 Settings: Adjust settings such as files.exclude and search.exclude to exclude unnecessary files and directories from indexing.
 Extensions: Disable or uninstall extensions that are not essential to your workflow or that negatively impact performance.
-By following these best practices and valuable insights, you can enhance your productivity and efficiency when working with Visual Studio Code.
+By following these best practices and valuable insights, you can enhance your productivity and efficiency when working with Visual Studio Code..
