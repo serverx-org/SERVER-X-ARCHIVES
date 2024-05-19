@@ -8,4 +8,4 @@ links:
     github: https://github.com/GowravSai26
 ---
 
-Gowrav Sai Veeramallu, a Computer Science student, is a contributor/developer at [**server-x-101**](https://github.com/server-x-101/).
+Adari Hanish, a Computer Science student, is a contributor/developer at [**server-x-101**](https://github.com/server-x-101/). and a electronic component assembler 
