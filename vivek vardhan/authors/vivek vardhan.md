@@ -5,6 +5,7 @@ draft: false
 
 links: 
     linkedin: https://www.linkedin.com/in/vivek-vardhan-418843268/
+    medium: https://medium.com/@vivekvardhan0310
     github: https://github.com/vivek-310
 ---
 
