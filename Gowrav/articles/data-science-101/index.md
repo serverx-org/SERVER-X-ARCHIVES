@@ -2,7 +2,7 @@
 title: Data and Datascience
 description: Introduction to dataScience
 author: Gowrav Sai Veeramallu
-lastmod:2024-03-31
+lastmod: 2024-03-31
 github: https://github.com/SERVER-X-101/SERVER-X-ARCHIVES/edit/main/Gowrav/articles/data-science-101/index.md
 tags:
   - Data The Raw Material of Insights
