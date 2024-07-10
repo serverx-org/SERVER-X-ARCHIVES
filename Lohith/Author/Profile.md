@@ -8,4 +8,4 @@ links:
     github: https://github.com/lohith-lalam
 ---
 
-Lohith Lalam, a Computer Science student, is a content management lead and contributor/developer at [**server-x-101**](https://serverx.org.in/).
+Lohith Lalam, a Computer Science student, is a Content Management Lead/Contributor/Developer at [**server-x-101**](https://serverx.org.in/).
