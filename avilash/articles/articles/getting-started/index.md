@@ -1,3 +1,14 @@
+---
+title: Getting started
+description: Knowing about backend development
+author: Avilash
+lastmod: 2024-07-17
+publishdate: 2024-07-17
+tags:
+    - getting started
+draft: false
+---
+
 ## A Beginner's Guide to Backend Development
 Backend development is the backbone of any web application. It’s where the magic happens behind the scenes to ensure everything runs smoothly on the user interface. If you’re new to backend development, this guide will introduce you to the basics, the essential tools and technologies, and best practices to set you on the right path.
 
